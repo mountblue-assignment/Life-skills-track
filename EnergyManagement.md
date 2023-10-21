@@ -13,7 +13,7 @@
 **Answer:** I recognize that I'm in the Excitement quadrant when I'm thrilled and enthusiastic about my work, when I'm ready to take on challenges with a positive mindset
 
 
-##Question 4: Paraphrase the Sleep is your Superpower video in your own words in brief. Only the points, no explanation.
+## Question 4: Paraphrase the Sleep is your Superpower video in your own words in brief. Only the points, no explanation.
 
 **Answer:** 
 - Sleep is important for overall health.
@@ -22,7 +22,7 @@
 - The video gives helpful tips for better sleep.
 
 
-##Question 5: What are some ideas that you can implement to sleep better?
+## Question 5: What are some ideas that you can implement to sleep better?
 
 **Answer:**  
 - we should go to bed and wake up at the same time every day.
@@ -31,7 +31,7 @@
 - we should avoid  using mobiles  before bedtime.
 
 
-##Question 6: Paraphrase the video - Brain Changing Benefits of Exercise. Minimum 5 points, only the points.
+## Question 6: Paraphrase the video - Brain Changing Benefits of Exercise. Minimum 5 points, only the points.
 
 **Answer:** 
 - Exercise is great for the brain's health and structure.
@@ -40,7 +40,7 @@
 - It helps create new brain cells and supports a healthy brain environment.
 - Exercise is essential for keeping your mind in good shape.
 
-##Question 7: What are some steps you can take to exercise more?
+## Question 7: What are some steps you can take to exercise more?
 
 **Answer:**
 - we should do activities like easy stretching or basic exercises at home.
